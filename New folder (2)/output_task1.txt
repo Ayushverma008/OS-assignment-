@@ -1,0 +1,22 @@
+Enter number of child processes to create: Parent PID: 6526 is creating 20 child processes...
+
+Parent: Child with PID 6562 has finished.
+Parent: Child with PID 6563 has finished.
+Parent: Child with PID 6564 has finished.
+Parent: Child with PID 6565 has finished.
+Parent: Child with PID 6566 has finished.
+Parent: Child with PID 6567 has finished.
+Parent: Child with PID 6568 has finished.
+Parent: Child with PID 6569 has finished.
+Parent: Child with PID 6570 has finished.
+Parent: Child with PID 6571 has finished.
+Parent: Child with PID 6572 has finished.
+Parent: Child with PID 6573 has finished.
+Parent: Child with PID 6574 has finished.
+Parent: Child with PID 6575 has finished.
+Parent: Child with PID 6576 has finished.
+Parent: Child with PID 6577 has finished.
+Parent: Child with PID 6578 has finished.
+Parent: Child with PID 6579 has finished.
+Parent: Child with PID 6580 has finished.
+Parent: Child with PID 6581 has finished.
