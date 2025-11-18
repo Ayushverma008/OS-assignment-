@@ -1,0 +1,7 @@
+Logging configuration setup completed!
+Process-1 is running for 2 seconds...
+Process-1 completed
+Process-2 is running for 3 seconds...
+Process-2 completed
+All processes terminated successfully!
+Check 'process_log.txt' for logs!

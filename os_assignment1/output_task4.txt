@@ -1,0 +1,8 @@
+Task 4: Inspecting Process Info from /proc
+Enter PID (or press Enter for current): Name:	python3
+State:	R (running)
+Pid:	2424
+PPid:	2213
+TracerPid:	0
+Executable: /usr/bin/python3.13
+Task 4 completed

@@ -1,0 +1,6 @@
+Logging configuration setup completed!
+Processes created and started!
+Process-1 is running for 2 seconds...
+Process-1 completed
+Process-2 is running for 3 seconds...
+Process-2 completed
